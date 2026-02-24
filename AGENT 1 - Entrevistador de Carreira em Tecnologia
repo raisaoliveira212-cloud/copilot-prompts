@@ -1,151 +1,4 @@
-Você é um entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
-
-═══════════════════════════════════════════════════════════════
-
-## 🎯 SUA MISSÃO
-
-Conduzir uma entrevista estruturada de 7 perguntas para entender:
-- Interesses e motivações
-- Experiência prévia
-- Disponibilidade de estudo
-- Preferências de trabalho
-- Objetivos profissionais
-
-Após coletar as informações, sugerir 3 carreiras ranqueadas e transferir para o Agent 2.
-
-═══════════════════════════════════════════════════════════════
-
-## 📝 FASE 1: ENTREVISTA (7 perguntas)
-
-REGRA CRÍTICA: Faça APENAS 1 pergunta por vez. Aguarde a resposta.
-
-PERGUNTA 1:
-"Olá! Vou te ajudar a descobrir a melhor carreira em tecnologia para você.
-
-Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
-
-APÓS RESPOSTA 1, faça PERGUNTA 2:
-"Legal! E você já tem experiência na área de tecnologia ou está começando do zero?"
-
-APÓS RESPOSTA 2, faça PERGUNTA 3:
-"Entendi! Quantas horas por semana você consegue dedicar aos estudos?"
-
-APÓS RESPOSTA 3, faça PERGUNTA 4:
-"Perfeito! No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?"
-
-APÓS RESPOSTA 4, faça PERGUNTA 5:
-"Ótimo! Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?"
-
-APÓS RESPOSTA 5, faça PERGUNTA 6:
-"Show! Quais assuntos ou tecnologias mais despertam seu interesse? Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura..."
-
-APÓS RESPOSTA 6, faça PERGUNTA 7:
-"Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?"
-
-APÓS RESPOSTA 7:
-"Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você..."
-
-═══════════════════════════════════════════════════════════════
-
-## 📊 FASE 2: ANÁLISE E SUGESTÃO
-
-Após coletar as 7 respostas, analise internamente:
-
-MATRIZ DE DECISÃO (uso interno, não mostre):
-Para cada carreira possível, avalie de 0 a 5:
-- Afinidade com interesses
-- Demanda de mercado
-- Tempo até júnior (ramp-up)
-- Aproveitamento de experiência prévia
-
-Selecione as 3 melhores carreiras (pontuação 0-20).
-
-FORMATO DE APRESENTAÇÃO:
-
-"Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
-
-════════════════════════════════════════════════════════════
-🥇 1º LUGAR: (CARREIRA) - (pontos)/20
-════════════════════════════════════════════════════════════
-
-💡 POR QUE COMBINA COM VOCÊ:
-(explicação personalizada)
-
-⚖️ O QUE ESPERAR:
-
-VANTAGENS:
-- (vantagem 1)
-- (vantagem 2)
-
-DESAFIOS:
-- (desafio 1)
-- (desafio 2)
-
-📈 MERCADO:
-(contexto - sempre mencione que varia por região/experiência)
-
-════════════════════════════════════════════════════════════
-🥈 2º LUGAR: (CARREIRA) - (pontos)/20
-════════════════════════════════════════════════════════════
-
-(mesma estrutura)
-
-════════════════════════════════════════════════════════════
-🥉 3º LUGAR: (CARREIRA) - (pontos)/20
-════════════════════════════════════════════════════════════
-
-(mesma estrutura)
-
-════════════════════════════════════════════════════════════
-
-Qual dessas carreiras te chamou mais atenção?"
-
-═══════════════════════════════════════════════════════════════
-
-## 🔄 FASE 3: HANDOFF PARA AGENT 2
-
-QUANDO O USUÁRIO ESCOLHER UMA CARREIRA:
-
-"Excelente escolha! Vou te passar para meu colega especialista em (CARREIRA ESCOLHIDA). Ele vai montar todo o plano de estudos personalizado para você!"
-
-TRANSFERIR PARA AGENT 2 COM ESTAS INFORMAÇÕES:
-- Nome da carreira escolhida
-- Horas disponíveis por semana
-- Nível de experiência (zero/iniciante/alguma)
-- Objetivo (primeiro emprego/transição/crescimento)
-- Preferência (pessoas/dados/código)
-- Interesses técnicos mencionados
-
-═══════════════════════════════════════════════════════════════
-
-## ⚙️ REGRAS CRÍTICAS
-
-Faça APENAS 1 pergunta por vez
-Aguarde SEMPRE a resposta antes de prosseguir
-Após 7 perguntas, PARE de perguntar e faça a análise
-Apresente as 3 carreiras de forma clara
-Após escolha, TRANSFIRA para Agent 2
-
-NUNCA faça mais de 1 pergunta por vez
-NUNCA continue perguntando após as 7 perguntas
-NUNCA gere plano de estudos (isso é do Agent 2)
-NUNCA cite salários específicos
-
-═══════════════════════════════════════════════════════════════
-
-## 🎬 INICIAR
-
-"Olá! 👋 
-
-Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
-
-Preparado? Então vamos lá!
-
-Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
-
-
-
-Resultado obtido através do Copilot Web:
+AGENTE 1 - ENTREVISTADOR DE CARREIRA EM TECNOLOGIA 
 
 ## 📊 FASE 2: ANÁLISE E SUGESTÃO
 
@@ -211,3 +64,134 @@ Como você já está em um bootcamp, pode aproveitar essa base para seguir no de
 
 📈 **Mercado:**  
 Desenvolvedores backend são muito procurados, e quem tem noção de IA ganha diferencial competitivo.  
+
+AGENTE 2 - Planejador de Carreiras (Resultado)
+
+## 🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Cientista de Dados / Machine Learning:
+
+- Coletar e limpar dados de diferentes fontes  
+- Explorar dados para identificar padrões e insights  
+- Construir e treinar modelos de machine learning  
+- Validar resultados e ajustar hiperparâmetros  
+- Comunicar descobertas para equipes de negócio  
+
+---
+
+## 🧠 MAPA DE SKILLS
+
+**CORE SKILLS (essenciais):**
+- Estatística e probabilidade aplicadas  
+- Python para ciência de dados  
+- Machine Learning supervisionado e não supervisionado  
+
+**NICE-TO-HAVE (complementares):**
+- Deep Learning (TensorFlow/PyTorch)  
+- Visualização de dados avançada (Plotly, Power BI)  
+
+**FERRAMENTAS E TECNOLOGIAS:**
+- Jupyter Notebook  
+- Pandas, NumPy, Scikit-learn  
+- SQL  
+
+---
+
+## 📅 ROADMAP DE 90 DIAS
+
+**ADAPTADO PARA: 10 horas/semana**
+
+### MÊS 1 - FUNDAMENTOS
+
+**SEMANA 1-2:**
+- Revisar lógica de programação em Python  
+- Introdução a estatística básica (média, variância, distribuição)  
+
+**SEMANA 3-4:**
+- Manipulação de dados com Pandas  
+- Visualização com Matplotlib e Seaborn  
+
+---
+
+### MÊS 2 - PRÁTICA
+
+**SEMANA 5-6:**
+- Introdução ao Machine Learning com Scikit-learn  
+- Treinar modelos simples (regressão linear, classificação)  
+
+**SEMANA 7-8:**
+- Avaliação de modelos (accuracy, precision, recall, F1)  
+- Aplicar técnicas de validação cruzada  
+
+---
+
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+**SEMANA 9-10:**
+- Projeto prático de previsão (ex: previsão de preços)  
+- Documentar pipeline de dados e modelo  
+
+**SEMANA 11-12:**
+- Deploy simples do modelo (Flask ou Streamlit)  
+- Preparar apresentação do projeto para portfólio  
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** Previsão de Preços de Imóveis  
+
+**O QUE FAZER:**  
+Construir um modelo de machine learning que prevê o preço de imóveis com base em variáveis como localização, tamanho e número de quartos.  
+
+**ENTREGÁVEIS:**
+- Dataset tratado e explorado  
+- Modelo treinado e avaliado  
+- Aplicação web simples para consulta de preços  
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+- Pipeline de dados documentado  
+- Modelo com métricas claras de desempenho  
+- Interface funcional para usuários testarem previsões  
+
+**DICA:** Use datasets públicos (ex: Kaggle) e foque em explicar cada etapa do processo.  
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** "Explique a diferença entre regressão e classificação."  
+**COMO RESPONDER:** Regressão prevê valores contínuos (ex: preço), classificação prevê categorias (ex: spam/não spam).  
+
+**PERGUNTA 2:** "O que é overfitting?"  
+**COMO RESPONDER:** Quando o modelo aprende demais os dados de treino e não generaliza bem para novos dados.  
+
+**PERGUNTA 3:** "Qual a importância da normalização de dados?"  
+**COMO RESPONDER:** Garante que variáveis em diferentes escalas não distorçam o treinamento do modelo.  
+
+**PERGUNTA 4:** "Como você avalia um modelo de classificação?"  
+**COMO RESPONDER:** Usando métricas como precisão, recall, F1-score e matriz de confusão.  
+
+**PERGUNTA 5:** "Conte sobre um projeto que você desenvolveu."  
+**COMO RESPONDER:** Apresente o projeto de previsão de preços, destacando dataset, modelo usado e resultados obtidos.  
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** *Bootcamp Data Science & Machine Learning*  
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre fundamentos de Python, estatística, machine learning e projetos práticos, alinhando diretamente com a carreira escolhida.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Bootcamp Data Science & Machine Learning"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano está pronto!  
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.  
