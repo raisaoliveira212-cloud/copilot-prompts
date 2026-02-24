@@ -179,3 +179,136 @@ OBJETIVO:
 - Transição: destacar transferência de skills
 - Crescimento: focar em skills avançadas
 \
+
+
+
+ROADMAP obtido atráves do Copilot Web:
+
+## 🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Cientista de Dados / Machine Learning:
+
+- Coletar e limpar dados de diferentes fontes  
+- Explorar dados para identificar padrões e insights  
+- Construir e treinar modelos de machine learning  
+- Validar resultados e ajustar hiperparâmetros  
+- Comunicar descobertas para equipes de negócio  
+
+---
+
+## 🧠 MAPA DE SKILLS
+
+**CORE SKILLS (essenciais):**
+- Estatística e probabilidade aplicadas  
+- Python para ciência de dados  
+- Machine Learning supervisionado e não supervisionado  
+
+**NICE-TO-HAVE (complementares):**
+- Deep Learning (TensorFlow/PyTorch)  
+- Visualização de dados avançada (Plotly, Power BI)  
+
+**FERRAMENTAS E TECNOLOGIAS:**
+- Jupyter Notebook  
+- Pandas, NumPy, Scikit-learn  
+- SQL  
+
+---
+
+## 📅 ROADMAP DE 90 DIAS
+
+**ADAPTADO PARA: 10 horas/semana**
+
+### MÊS 1 - FUNDAMENTOS
+
+**SEMANA 1-2:**
+- Revisar lógica de programação em Python  
+- Introdução a estatística básica (média, variância, distribuição)  
+
+**SEMANA 3-4:**
+- Manipulação de dados com Pandas  
+- Visualização com Matplotlib e Seaborn  
+
+---
+
+### MÊS 2 - PRÁTICA
+
+**SEMANA 5-6:**
+- Introdução ao Machine Learning com Scikit-learn  
+- Treinar modelos simples (regressão linear, classificação)  
+
+**SEMANA 7-8:**
+- Avaliação de modelos (accuracy, precision, recall, F1)  
+- Aplicar técnicas de validação cruzada  
+
+---
+
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+**SEMANA 9-10:**
+- Projeto prático de previsão (ex: previsão de preços)  
+- Documentar pipeline de dados e modelo  
+
+**SEMANA 11-12:**
+- Deploy simples do modelo (Flask ou Streamlit)  
+- Preparar apresentação do projeto para portfólio  
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO:** Previsão de Preços de Imóveis  
+
+**O QUE FAZER:**  
+Construir um modelo de machine learning que prevê o preço de imóveis com base em variáveis como localização, tamanho e número de quartos.  
+
+**ENTREGÁVEIS:**
+- Dataset tratado e explorado  
+- Modelo treinado e avaliado  
+- Aplicação web simples para consulta de preços  
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+- Pipeline de dados documentado  
+- Modelo com métricas claras de desempenho  
+- Interface funcional para usuários testarem previsões  
+
+**DICA:** Use datasets públicos (ex: Kaggle) e foque em explicar cada etapa do processo.  
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** "Explique a diferença entre regressão e classificação."  
+**COMO RESPONDER:** Regressão prevê valores contínuos (ex: preço), classificação prevê categorias (ex: spam/não spam).  
+
+**PERGUNTA 2:** "O que é overfitting?"  
+**COMO RESPONDER:** Quando o modelo aprende demais os dados de treino e não generaliza bem para novos dados.  
+
+**PERGUNTA 3:** "Qual a importância da normalização de dados?"  
+**COMO RESPONDER:** Garante que variáveis em diferentes escalas não distorçam o treinamento do modelo.  
+
+**PERGUNTA 4:** "Como você avalia um modelo de classificação?"  
+**COMO RESPONDER:** Usando métricas como precisão, recall, F1-score e matriz de confusão.  
+
+**PERGUNTA 5:** "Conte sobre um projeto que você desenvolveu."  
+**COMO RESPONDER:** Apresente o projeto de previsão de preços, destacando dataset, modelo usado e resultados obtidos.  
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** *Bootcamp Data Science & Machine Learning*  
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre fundamentos de Python, estatística, machine learning e projetos práticos, alinhando diretamente com a carreira escolhida.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Bootcamp Data Science & Machine Learning"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano está pronto!  
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.  
